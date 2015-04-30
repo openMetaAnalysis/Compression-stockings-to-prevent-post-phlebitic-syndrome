@@ -26,15 +26,15 @@ References:
 ----------------------------------
 
 ### Systematic review(s)
-####Most recent review at time of last revision of this repository
-1. Stortecky S, da Costa BR, Mattle HP, et al. Percutaneous closure of patent foramen ovale in patients with cryptogenic embolism: a network meta-analysis. Eur Heart J. 2015 Jan 7;36(2):120-8. doi: 10.1093/eurheartj/ehu292. Epub 2014 Aug 11. PMID: [25112661](http://pubmed.gov/25112661).
+####Recent review(s) at time of last revision of this repository
+1. Stortecky S, da Costa BR, Mattle HP, et al. Percutaneous closure of patent foramen ovale in patients with cryptogenic embolism: a network meta-analysis. Eur Heart J. 2015 Jan 7;36(2):120-8. doi: [10.1093/eurheartj/ehu292](http://dx.doi.org/10.1093/eurheartj/ehu292). PMID: [25112661](http://pubmed.gov/25112661).
 2. Spencer FA, Lopes LC, Kennedy SA, Guyatt G. Systematic review of percutaneous closure versus medical therapy in patients with cryptogenic stroke and patent foramen ovale. BMJ Open. 2014 Mar 7;4(3):e004282. doi: [10.1136/bmjopen-2013-004282](http://dx.doi.org/10.1136/bmjopen-2013-004282). PMID: [24607561](http://pubmed.gov/24607561); PMCID: [PMC3948581](http://pubmedcentral.gov/PMC3948581).
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 None
 
-#### Trials included in the review(s) above
+#### Trial(s) included in the review(s) above
 1. Carroll JD, Saver JL, Thaler DEat al; RESPECT Investigators. Closure of patent foramen ovale versus medical therapy after cryptogenic stroke. N Engl J Med. 2013 Mar 21;368(12):1092-100. doi: [10.1056/NEJMoa1301440](http://dx.doi.org/10.1056/NEJMoa1301440). PMID: [23514286](http://pubmed.gov/23514286).
 2. Meier B, Kalesan B, Mattle HP, et al; PC Trial Investigators. Percutaneous closure of patent foramen ovale in cryptogenic embolism. N Engl J Med. 2013 Mar 21;368(12):1083-91. doi: [10.1056/NEJMoa1211716](http://dx.doi.org/10.1056/NEJMoa1211716). PMID: [23514285](http://pubmed.gov/23514285).
 3. Furlan AJ, Reisman M, Massaro J, et al; CLOSURE I Investigators. Closure or medical therapy for cryptogenic stroke with patent foramen ovale. N Engl J Med. 2012 Mar 15;366(11):991-9. doi: [10.1056/NEJMoa1009639](http://dx.doi.org/10.1056/NEJMoa1009639). PMID: [22417252](http://pubmed.gov/22417252).
