@@ -11,6 +11,7 @@ However, this finding is based on a retrospective subgroup analysis with less th
 We included trials from the prior reviews if stockings were started within 4 weeks.
 
 **Results:** Details of the studies included are in the:
+* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
 * [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
 * [Source data for forest plots](../../tree/master/data)
 
