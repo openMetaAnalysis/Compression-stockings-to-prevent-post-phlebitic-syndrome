@@ -4,6 +4,7 @@ Compression stockings to prevent post-phlebitic syndrome
 A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention may be effective. 
+However, this finding is based on a retrospective subgroup analysis with less than 500 total patients randomized.
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
@@ -17,7 +18,8 @@ The forest plot for the primary outcome is below. Additional [forest plots](../.
 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Compression-stockings-to-prevent-post-phlebitic-syndrome/master/forest-plots/Outcome-Primary.png "Principle results - forest plot")
 
-The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
+The Summary of findings table for the primary outcome is below.
+![Summary of findings table](https://raw.githubusercontent.com/openMetaAnalysis/Compression-stockings-to-prevent-post-phlebitic-syndrome/master/GRADE-profiles/Summary-of-findings-table.png "Summary of findings table")
 
 References:
 ----------------------------------
