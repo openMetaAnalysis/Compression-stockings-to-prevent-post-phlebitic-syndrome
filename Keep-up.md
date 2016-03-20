@@ -13,7 +13,7 @@ Receive notifications about possible studies when indexed at PubMed
 Search strategy is **Random* AND Venous Thrombosis AND Compression Stockings** (publication types not used as search terms in order to avoid missing trials awaiting indexing by PubMed):
 
 * [Search now and test strategy at PubMed](http://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Random*%20AND%20Venous%20Thrombosis%20AND%20Compression%20Stockings)
-* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=PubmedCompressionStockings&loc=en_US) or [RSS](http://feeds.feedburner.com/PubmedProstateCancerScreening)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=PubMedCompressionStockings&loc=en_US) or [RSS](http://feeds.feedburner.com/PubMedCompressionStockings)
 
 Receive notifications about PubMed citations when added to this review
 -------------------------
