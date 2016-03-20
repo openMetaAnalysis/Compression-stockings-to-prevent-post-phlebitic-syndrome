@@ -10,7 +10,8 @@ A living systematic review
 We included trials from the prior reviews if stockings were started within 4 weeks.
 
 **Results:** Details of the studies included are in the:
-* [Source data](../../tree/master/data)
+* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
+* [Source data for forest plots](../../tree/master/data)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
