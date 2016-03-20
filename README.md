@@ -40,6 +40,7 @@ None
 2. Prandoni P, Lensing AW, Prins MH, Frulla M, Marchiori A, Bernardi E, Tet al. Below-knee elastic compression stockings to
 prevent the post-thrombotic syndrome: a randomized, controlled trial. Ann Intern  Med. 2004 Aug 17;141(4):249-56. PMID: [15313740](http://pubmed.gov/15313740)
 3. Kahn SR, Shapiro S, Wells PS, Rodger MA, Kovacs MJ, Anderson DR, et al; SOX trial investigators. Compression stockings to prevent post-thrombotic syndrome: a randomised placebo-controlled trial. Lancet. 2014 Mar 8;383(9920):880-8. doi: [10.1016/S0140-6736(13)61902-9](http://dx.doi.org/10.1016/S0140-6736(13)61902-9).  PMID: [24315521](http://pubmed.gov/24315521)
+
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
 [Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
