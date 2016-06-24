@@ -1,9 +1,10 @@
 Study,     Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor,
-Brandjes,  1997, 9074574, 19, 96, 46, 98,'Single-blind; compliance self-reported as high',
-Prandoni,  2004,15313740, 23, 90, 44, 90,'Single-blind; compliance self-reported as high',
+Brandjes,1997,9074574,19,96,46,98,'Single-blind; compliance self-reported as high',
+Prandoni,2004,15313740,23,90,44,90,'Single-blind; compliance self-reported as high',
 Kahn (SOX),2014,24315521,176,409,168,394,'Double-blind; compliance self-reported as low',
+Mol (OCTAVIA),2016,27245485,34,262,51,256,'Single-blind; compliance self-reported as high. Started 1 year after DVT',
 ,,,,,,,,
-,,,,,,,To make forest plot:,
-,,,,,,,Click 'Raw' view of this file,
-,,,,,,,Copy rows of data without column names,
-,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
+,,,,,,,,To make forest plot:
+,,,,,,,,Click 'Raw' view of this file
+,,,,,,,,Copy rows of data without column names
+,,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io
