@@ -43,7 +43,9 @@ Medicine (Baltimore). 2015 Aug;94(31):e1318. doi: [10.1097/MD.0000000000001318](
 None
 
 #### Trials undergoing assessment
-1. Jayaraj A, Meissner M. Impact of graduated compression stockings on the prevention of post-thrombotic syndrome e results of a randomized controlled trial. Phlebology. 2015;30(8):541-548. Available at http://phl.sagepub.com/content/30/8/541
+1. Jayaraj A, Meissner M. Impact of graduated compression stockings on the prevention of post-thrombotic syndrome - results of a randomized controlled trial. Phlebology. 2015 Sep;30(8):541-8. doi: [10.1177/0268355514544781](http://dx.doi.org/10.1177/0268355514544781). PMID: [25059736](http://pubmed.gov/25059736)
+2. Mol GC, van de Ree MA, Klok FA, Tegelberg MJ, Sanders FB, Koppen S, et al. One versus two years of elastic compression 
+stockings for prevention of post-thrombotic syndrome (OCTAVIA study): randomised controlled trial. BMJ. 2016 May 31;353:i2691. doi: [10.1136/bmj.i2691](http://dx.doi.org/10.1136/bmj.i2691). PMID: [27245485](http://pubmed.gov/27245485)
 
 #### Trial(s) included in the review(s) above
 1. Brandjes DP, Büller HR, Heijboer H, Huisman MV, de Rijk M, Jagt H, ten Cate JW. Randomised trial of effect of compression stockings in patients with symptomatic proximal-vein thrombosis. Lancet. 1997 Mar 15;349(9054):759-62. PMID: [9074574](http://pubmed.gov/9074574)
