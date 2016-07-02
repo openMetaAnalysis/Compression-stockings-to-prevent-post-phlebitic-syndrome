@@ -6,7 +6,7 @@ Receive notifications about possible studies when results posted at [ClinicalTri
 Search strategy is ** Interventional Studies | Venous thrombosis | Compression stockings **:
 
 * [Search now and test strategy at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=&recr=&rslt=&type=Intr&cond=venous+thrombosis&intr=compression+stockings&titles=&outc=&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&gndr=&rcv_s=&rcv_e=&lup_s=&lup_e=)
-* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=ClinicalTrialsgovCompressionStockings&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/ClinicaltrialsgovProstateCancerScreening?format=xml)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=ClinicalTrialsgovCompressionStockings&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/ClinicalTrialsgovCompressionStockings)
 
 Receive notifications about possible studies when indexed at PubMed
 -------------------------
