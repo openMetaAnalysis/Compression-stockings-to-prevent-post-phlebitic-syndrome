@@ -3,12 +3,12 @@ Compression stockings to prevent post-phlebitic syndrome
 
 A living, rapid review
 
-**Clinical summary:** This meta-analysis suggests that stockings worn for 2 years starting at the time of the clot may be effective if more than 75% of patients are compliant at least 80% of the time. Similarly, the OCTAVIA trial isolates that benefit occurs from the second year of stockings. While the evidence is low quality using the GRADE assessment, the low cost and low adverse effects of the intervention suggest that stockings should be offered to patients at the time of acute thrombosis.
+**Clinical summary:** This meta-analysis suggests that high pressure [compression stockings](http://www.wikidoc.org/index.php/Deep_vein_thrombosis_compression_stockings) (> 30 mm Hg) worn for 2 years starting at the time of the [deep vein thrombosis](http://www.wikidoc.org/index.php/Deep_vein_thrombosis) may be effective if more than 75% of patients are compliant at least 80% of the time. Similarly, the OCTAVIA trial isolates that benefit occurs from the second year of stockings. While the evidence is low quality using the GRADE assessment, the low cost and low adverse effects of the intervention suggest that stockings should be offered to patients at the time of acute thrombosis.
 
 * [Reconciliation of conclusions with prior meta-analyses](../../tree/master/reconciliation-tables/Reconciliation%20of%20conclusions.csv)
 * [Keep current with this topic](Keep-up.md)
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 We included trials from the prior reviews if stockings were started within 4 weeks.
 
