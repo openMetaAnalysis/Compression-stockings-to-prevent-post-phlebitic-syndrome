@@ -40,7 +40,8 @@ Medicine (Baltimore). 2015 Aug;94(31):e1318. doi: [10.1097/MD.0000000000001318](
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-None
+1. Mol GC, van de Ree MA, Klok FA, Tegelberg MJ, Sanders FB, Koppen S, et al. One versus two years of elastic compression 
+stockings for prevention of post-thrombotic syndrome (OCTAVIA study): randomised controlled trial. BMJ. 2016 May 31;353:i2691. doi: [10.1136/bmj.i2691](http://dx.doi.org/10.1136/bmj.i2691). PMID: [27245485](http://pubmed.gov/27245485)
 
 #### Trials undergoing assessment
 None
@@ -51,8 +52,9 @@ None
 prevent the post-thrombotic syndrome: a randomized, controlled trial. Ann Intern  Med. 2004 Aug 17;141(4):249-56. PMID: [15313740](http://pubmed.gov/15313740)
 3. Kahn SR, Shapiro S, Wells PS, Rodger MA, Kovacs MJ, Anderson DR, et al; SOX trial investigators. Compression stockings to prevent post-thrombotic syndrome: a randomised placebo-controlled trial. Lancet. 2014 Mar 8;383(9920):880-8. doi: [10.1016/S0140-6736(13)61902-9](http://dx.doi.org/10.1016/S0140-6736(13)61902-9).  PMID: [24315521](http://pubmed.gov/24315521)
 4. Jayaraj A, Meissner M. Impact of graduated compression stockings on the prevention of post-thrombotic syndrome - results of a randomized controlled trial. Phlebology. 2015 Sep;30(8):541-8. doi: [10.1177/0268355514544781](http://dx.doi.org/10.1177/0268355514544781). PMID: [25059736](http://pubmed.gov/25059736)
-5. Mol GC, van de Ree MA, Klok FA, Tegelberg MJ, Sanders FB, Koppen S, et al. One versus two years of elastic compression 
-stockings for prevention of post-thrombotic syndrome (OCTAVIA study): randomised controlled trial. BMJ. 2016 May 31;353:i2691. doi: [10.1136/bmj.i2691](http://dx.doi.org/10.1136/bmj.i2691). PMID: [27245485](http://pubmed.gov/27245485)
+
+#### This repository is cited by
+1. WikiDoc contributors. Deep vein thrombosis compression stockings. WikiDoc. July 2, 2016. Available at: <a href="http://openmetaanalysis.github.io/Compression-stockings-to-prevent-post-phlebitic-syndrome">http://openmetaanalysis.github.io/Compression-stockings-to-prevent-post-phlebitic-syndrome</a>. Accessed July 2, 2016. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
