@@ -3,7 +3,7 @@ Compression stockings to prevent post-phlebitic syndrome
 
 A living, rapid review
 
-**Clinical summary:** This meta-analysis suggests that stockings worn for 2 years starting at the time of the clot may be effective if more than 75% of patients are compliant at least 80% of the time. Similarly, the OCTAVIA trial isolates that benefit occurs from the second year of stockings. 
+**Clinical summary:** This meta-analysis suggests that stockings worn for 2 years starting at the time of the clot may be effective if more than 75% of patients are compliant at least 80% of the time. Similarly, the OCTAVIA trial isolates that benefit occurs from the second year of stockings. While the evidence is low quality using the GRADE assessment, the low cost and low adverse effects of the intervention suggest that stockings should be offered to patients at the time of acute thrombosis.
 
 * [Reconciliation of conclusions with prior meta-analyses](../../tree/master/reconciliation-tables/Reconciliation%20of%20conclusions.csv)
 * [Keep current with this topic](Keep-up.md)
