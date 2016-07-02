@@ -13,6 +13,7 @@ A living systematic review
 We included trials from the prior reviews if stockings were started within 4 weeks.
 
 **Results:** Details of the studies included are in the:
+* [Reconciliation of studies included compared to stuides included in prior meta-analyses](../../tree/master/reconciliation-tables/Reconciliation%20of%20studies.csv)
 * [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
 * [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
 * [Source data for forest plots](../../tree/master/data)
