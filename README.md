@@ -54,7 +54,7 @@ prevent the post-thrombotic syndrome: a randomized, controlled trial. Ann Intern
 4. Jayaraj A, Meissner M. Impact of graduated compression stockings on the prevention of post-thrombotic syndrome - results of a randomized controlled trial. Phlebology. 2015 Sep;30(8):541-8. doi: [10.1177/0268355514544781](http://dx.doi.org/10.1177/0268355514544781). PMID: [25059736](http://pubmed.gov/25059736)
 
 #### This repository is cited by
-1. WikiDoc contributors. Deep vein thrombosis compression stockings. WikiDoc. July 2, 2016. Available at: <a href="http://openmetaanalysis.github.io/Compression-stockings-to-prevent-post-phlebitic-syndrome">http://openmetaanalysis.github.io/Compression-stockings-to-prevent-post-phlebitic-syndrome</a>. Accessed July 2, 2016. 
+1. WikiDoc contributors. Deep vein thrombosis compression stockings. WikiDoc. July 2, 2016. Available at: <a href="http://www.wikidoc.org/index.php/Deep_vein_thrombosis_compression_stockings">http://www.wikidoc.org/index.php/Deep_vein_thrombosis_compression_stockings</a>. Accessed July 2, 2016. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
