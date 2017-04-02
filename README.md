@@ -5,25 +5,25 @@ A living, rapid review
 
 **Clinical summary:** This meta-analysis suggests that high pressure [compression stockings](http://www.wikidoc.org/index.php/Deep_vein_thrombosis_compression_stockings) (> 30 mm Hg) worn for 2 years starting at the time of the [deep vein thrombosis](http://www.wikidoc.org/index.php/Deep_vein_thrombosis) may be effective if more than 75% of patients are compliant at least 80% of the time. Similarly, the OCTAVIA trial isolates that benefit occurs from the second year of stockings. While the evidence is low quality using the GRADE assessment, the low cost and low adverse effects of the intervention suggest that stockings should be offered to patients at the time of acute thrombosis.
 
-* [Reconciliation of conclusions with prior meta-analyses](../../tree/master/reconciliation-tables/Reconciliation%20of%20conclusions.csv)
-* [Keep current with this topic](Keep-up.md)
+* [Reconciliation of conclusions with prior meta-analyses](../../tree/master/files/reconciliation-tables/Reconciliation%20of%20conclusions.csv)
+* [Keep current with this topic](../files/searching/Keep-up.md)
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. See [methods](http://openmetaanalysis.github.io/methods.html) for details.
-
-We included trials from the prior reviews if stockings were started within 4 weeks.
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references.
+* [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
+* We included trials from the prior reviews if stockings were started within 4 weeks.
 
 **Results:** Details of the studies included are in the:
-* [Reconciliation of studies included compared to stuides included in prior meta-analyses](../../tree/master/reconciliation-tables/Reconciliation%20of%20studies.csv)
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
-* [Source data for forest plots](../../tree/master/data)
+* [Reconciliation of studies included compared to stuides included in prior meta-analyses](../../tree/master/files/reconciliation-tables/Reconciliation%20of%20studies.csv)
+* [Description of studies (PICO table)](../../tree/master/files/study-details/pico-table.md)
+* [Risk of bias assessment](../../tree/master/files/study-details/risk-of-bias.md)
+* [Source data for forest plots](../../tree/master/files/data)
 
-The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/files/forest-plots) of secondary analyses may be available. 
 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Compression-stockings-to-prevent-post-phlebitic-syndrome/master/forest-plots/Outcome-Primary.png "Principle results - forest plot")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Compression-stockings-to-prevent-post-phlebitic-syndrome/master/files/forest-plots/Outcome-Primary.png "Principle results - forest plot")
 
 The Summary of findings table for the primary outcome is below.
-![Summary of findings table](https://raw.githubusercontent.com/openMetaAnalysis/Compression-stockings-to-prevent-post-phlebitic-syndrome/master/GRADE-profiles/Summary-of-findings-table.png "Summary of findings table")
+![Summary of findings table](https://raw.githubusercontent.com/openMetaAnalysis/Compression-stockings-to-prevent-post-phlebitic-syndrome/master/files/GRADE-profiles/Summary-of-findings-table.png "Summary of findings table")
 
 References:
 ----------------------------------
