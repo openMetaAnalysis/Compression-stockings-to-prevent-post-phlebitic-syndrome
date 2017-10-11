@@ -30,11 +30,14 @@ References:
 
 ### Systematic review(s)
 #### Recent review(s) at time of last revision of this repository
-1. Berntsen CF, Kristiansen A, Akl EA, Sandset PM, Jacobsen EM, Guyatt G, Vandvik
+1. 1: Appelen D, van Loo E, Prins MH, Neumann MH, Kolbach DN. Compression therapy
+for prevention of post-thrombotic syndrome. Cochrane Database Syst Rev. 2017 Sep 
+26;9:CD004174. doi: 10.1002/14651858.CD004174.pub3. PMID: [28950030](http://pubmed.gov/28950030).
+2. Berntsen CF, Kristiansen A, Akl EA, Sandset PM, Jacobsen EM, Guyatt G, Vandvik
 PO. Compression Stockings for Preventing the Postthrombotic Syndrome in Patients 
 with Deep Vein Thrombosis. Am J Med. 2016 Apr;129(4):447.e1-447.e20. doi:
 1[10.1016/j.amjmed.2015.11.03](http://dx.doi.org/10.1016/j.amjmed.2015.11.03). PMID: [26747198](http://pubmed.gov/26747198)
-2. Tie HT, Luo MZ, Luo MJ, Li K, Li Q, Wu QC. Compression Therapy in the
+3. Tie HT, Luo MZ, Luo MJ, Li K, Li Q, Wu QC. Compression Therapy in the
 Prevention of Postthrombotic Syndrome: A Systematic Review and Meta-Analysis.
 Medicine (Baltimore). 2015 Aug;94(31):e1318. doi: [10.1097/MD.0000000000001318](http://dx.doi.org/10.1097/MD.0000000000001318). PMID: [26252318](http://pubmed.gov/26252318); PMCID: PMC4616586
 
