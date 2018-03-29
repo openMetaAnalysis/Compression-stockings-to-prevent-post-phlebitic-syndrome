@@ -1,4 +1,4 @@
-Compression stockings to prevent post-phlebitic syndrome
+DVT treatment with compression stockings to prevent post-phlebitic syndrome
 =================================
 
 A living, rapid review
