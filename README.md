@@ -58,6 +58,7 @@ prevent the post-thrombotic syndrome: a randomized, controlled trial. Ann Intern
 
 #### This repository is cited by
 1. WikiDoc contributors. Deep vein thrombosis compression stockings. WikiDoc. July 2, 2016. Available at: <a href="http://www.wikidoc.org/index.php/Deep_vein_thrombosis_compression_stockings">http://www.wikidoc.org/index.php/Deep_vein_thrombosis_compression_stockings</a>. Accessed July 2, 2016. 
+2. Badgett RG, Rahal A. Comment on One versus two years of elastic compression stockings for prevention of post-thrombotic syndrome (OCTAVIA study): randomised controlled trial. BMJ 2016 Available at https://www.bmj.com/content/353/bmj.i2691/rr
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
